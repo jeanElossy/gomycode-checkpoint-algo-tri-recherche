@@ -1,0 +1,10 @@
+ALGORITHM tri
+VAR
+  tab : ARRAY_OF type[8];
+
+BEGIN
+  FOR i FROM i-1 < length(tab) DO
+    tab[i] = Ajout(tab[i]);
+    i -->
+  END_FOR
+END
